@@ -6,7 +6,7 @@
 On an Arch based distribution as root, run the following:
 
 ```
-https://raw.githubusercontent.com/RThomas96/TARBS/master/archi3/larbs.sh
+curl -LO https://raw.githubusercontent.com/RThomas96/TARBS/master/archi3/larbs.sh
 sh larbs.sh
 ```
 
